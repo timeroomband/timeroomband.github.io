@@ -138,6 +138,10 @@
 					padding:  0px;
 				}
 
+				iframe#bandcamp {
+					height:660px
+				}
+
 			/* CSS concerning image overlay
 
 			.container {
